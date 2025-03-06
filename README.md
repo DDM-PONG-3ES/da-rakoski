@@ -53,6 +53,6 @@
 
 11. procurar entender conceitos fundamentais. estudo nunca é demais. ajudar os coleguinhas tbm
 
-12. planejamento -> é necessário o líder saber quem é quem na equipe dele e motivá-los de acordo com suas soft skills. a gestão fica a critério do líder e do próprio aluno
+12. planejamento -> é necessário o líder saber quem é quem na equipe dele e motivá-los de acordo com suas soft skills. a gestão fica a critério do líder e do próprio aluno querer melhorar de acordo com o avanço do curso
 
 
