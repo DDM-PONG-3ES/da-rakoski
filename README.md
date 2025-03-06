@@ -41,18 +41,19 @@
 
 6. Motivo é a razão ou causa que impulsiona uma ação antes dela acontecer. Justificativa é a explicação apresentada após uma ação ter ocorrido.
 
-7. 1 - B
+7.
+1 - B
 2 - A
 3 - D
 
-8. 1 - podem parecer ok de se cumprir, no entanto, são as que são mais esperadas de entregar com qualidade
+9. 1 - podem parecer ok de se cumprir, no entanto, são as que são mais esperadas de entregar com qualidade
 2 - as mais complicadas. você já sabe que vai dar errado mas vc vai tentar aterrisar sem explodir o avião
 8 - pedir ajuda. em qualquer cenário que você enfrente sem ter experiência, 90% dos casos alguém já enfrentou algo semelhante e pode te ajudar e te aconselhar em como vc pode se comportar
 
-9. tarefas pequenas -> caso o aluno seja mais experiente, fica a critério dele para conseguir melhorar o seu nível. quanto mais conhecimento melhor, a final, e para os alunos menos experientes, já é o suficiente
+10. tarefas pequenas -> caso o aluno seja mais experiente, fica a critério dele para conseguir melhorar o seu nível. quanto mais conhecimento melhor, a final, e para os alunos menos experientes, já é o suficiente
 
-10. procurar entender conceitos fundamentais. estudo nunca é demais. ajudar os coleguinhas tbm
+11. procurar entender conceitos fundamentais. estudo nunca é demais. ajudar os coleguinhas tbm
 
-11. planejamento -> é necessário o líder saber quem é quem na equipe dele e motivá-los de acordo com suas soft skills. a gestão fica a critério do líder e do próprio aluno
+12. planejamento -> é necessário o líder saber quem é quem na equipe dele e motivá-los de acordo com suas soft skills. a gestão fica a critério do líder e do próprio aluno
 
 
