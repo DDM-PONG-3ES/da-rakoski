@@ -41,10 +41,9 @@
 
 6. Motivo é a razão ou causa que impulsiona uma ação antes dela acontecer. Justificativa é a explicação apresentada após uma ação ter ocorrido.
 
-7.
-1 - B
-2 - A
-3 - D
+7. - 1 - B
+- 2 - A
+- 3 - D
 
 9. 1 - podem parecer ok de se cumprir, no entanto, são as que são mais esperadas de entregar com qualidade
 2 - as mais complicadas. você já sabe que vai dar errado mas vc vai tentar aterrisar sem explodir o avião
