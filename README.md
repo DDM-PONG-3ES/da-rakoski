@@ -16,7 +16,7 @@ As características essenciais de um integrante valioso incluem: ser fácil de t
 Prestar atenção, manter silêncio durante explicações do professor, e trabalhar seguindo as orientações do líder e do professor.
 
 **6. Qual a diferença entre motivo e justificativa?**
-Motivo é a razão ou causa que impulsiona uma ação antes dela acontecer. Justificativa é a explicação apresentada após uma ação ter ocorrido.
+Motivo é abonar a falta - só serviço militar justifica. Justificativa é a explicação que podia ser um motivo mas não depende do professor -> falta.
 
 **7. Avalie diferentes cenários de entrega de um projeto de software:**
 - (1) Entrega com qualidade, mas atrasada - B
