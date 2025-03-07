@@ -19,8 +19,8 @@ Prestar atenção, manter silêncio durante explicações do professor, e trabal
 Motivo é abonar a falta - só serviço militar justifica. Justificativa é a explicação que podia ser um motivo mas não depende do professor -> falta.
 
 **7. Avalie diferentes cenários de entrega de um projeto de software:**
-- (1) Entrega com qualidade, mas atrasada - B
-- (2) Entrega adiantada - A
+- (1) Entrega com qualidade, mas atrasada - D
+- (2) Entrega adiantada - B
 - (3) Entrega incompleta, porém dentro do prazo - D
 
 **8. Qual cenário é mais desafiador?**
