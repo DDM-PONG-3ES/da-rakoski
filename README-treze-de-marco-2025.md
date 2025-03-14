@@ -19,4 +19,7 @@
 - orientação a objetos
 - tipagem estática opcional
 
+### código 
+
+- fiz um código que adiciona nome, idade, cidade e estado de um usuário que será cadastrado. Ele contém uma classe principal **exemplo.dart** e **validacoes.dart** pras validações do arquivo principal
 
